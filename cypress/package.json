@@ -1,0 +1,16 @@
+{
+  "name": "cypress-cvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "cypress open",
+    "test:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.0.2"
+  }
+}
